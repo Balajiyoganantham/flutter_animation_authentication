@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "540970916182",
+    "project_id": "zoro-c2d03",
+    "storage_bucket": "zoro-c2d03.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540970916182:android:79bd447b57669dd3501ef7",
+        "android_client_info": {
+          "package_name": "com.example.zoro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540970916182-g4g62jnjj9pv69qc128nipe83rp2onr8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zoro",
+            "certificate_hash": "1b638023b3ad10928a0c793cba1e819483d677d5"
+          }
+        },
+        {
+          "client_id": "540970916182-868os31ok429cfdq9m1r9aamm5nhdaqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyfYxzfVxjKPhotNminbFOuLeuA6MAwcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540970916182-868os31ok429cfdq9m1r9aamm5nhdaqd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "540970916182-om1dlmqfn384t552stk1b5h93o4ugt1f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zoro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
